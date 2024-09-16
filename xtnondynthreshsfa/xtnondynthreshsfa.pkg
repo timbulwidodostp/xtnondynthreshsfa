@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'xtnondynthreshsfa': Performs Estimations of Threshold Effects in Non-Dynamic Panel Data Stochastic Frontier Models Use xtnondynthreshsfa With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lxthreg.mlib
+f xthcov.ado
+f xthreg.ado
+f xthreg.sthlp
+f xthsig.ado
+f xtnondynthreshsfa.ado
+f xtnondynthreshsfa.sthlp
+f xtnondynthreshsfacomps.ado
