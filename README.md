@@ -1,6 +1,8 @@
 # xtnondynthreshsfa
 Performs Estimations of Threshold Effects in Non-Dynamic Panel Data Stochastic Frontier Models Use xtnondynthreshsfa With STATA 18
 
+https://www.youtube.com/watch?v=d_hIy7wQoAM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
